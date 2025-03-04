@@ -30,5 +30,5 @@ This Python script is a graphical ToDo application built using the `FreeSimpleGU
 ## Running the Program
 To run the program, simply execute the script in your Python environment:
 ```bash
-python todo_gui.py
+python todogui.py
 ```
